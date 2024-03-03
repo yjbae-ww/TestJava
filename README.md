@@ -1,2 +1,1 @@
-# Pilgrim-Progress
-천로역정 : The Pilgrim's Progress
+# 테스트 Java
